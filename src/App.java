@@ -30,6 +30,11 @@ public class App {
         //Changer les notes de cette indice
     }
 
+
+    static void omer() {
+        
+    }
+
     static double getMoyenne(int indexeEtudiant) {
         //Trouver la moyenne a partit sa liste des notes
         return 0;
