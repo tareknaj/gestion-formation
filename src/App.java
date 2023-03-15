@@ -41,6 +41,7 @@ public class App {
     }
 
     static void afficherPresence(int indexeEtudiant) {
+        System.out.println("ok");
     }
 
     static int TrouverIndexe(String nomUtilisateur) {
