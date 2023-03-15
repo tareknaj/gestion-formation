@@ -31,7 +31,7 @@ public class App {
     }
 
 
-    static void omer(int parameter1) {
+    static void omer() {
         
     }
 
