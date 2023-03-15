@@ -32,7 +32,7 @@ public class App {
 
 
     static void omer() {
-        
+        System.out.println("Bien Arriver");
     }
 
     static double getMoyenne(int indexeEtudiant) {
